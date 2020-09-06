@@ -24,7 +24,7 @@
 			<label for="email">이메일: </label>
 			<input type="email" name="email" id="email" placeholder="이메일 입력">
 		</div>
-		테스트 수정-20:20
+		테스트 수정-21:00
 		<input type="submit" value="회원가입">
 	</form>
 </body>
